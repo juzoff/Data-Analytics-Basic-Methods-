@@ -6,3 +6,4 @@ In this assignment, I conducted data analytics using the Titanic Passenger Survi
 ## Files
 ### >RMD file
 ### >Knitted file (PDF)
+### >Assignment Instructions
